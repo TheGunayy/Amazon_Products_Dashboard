@@ -17,7 +17,7 @@ This is a Power BI dashboard project designed to analyze **Amazon product sales 
  **DAX** (measures & calculated columns)  
  **Power Query** (data transformation & cleaning) 
 
-## 💡 **Insights**   
+## 💡**Insights**   
  
  📊 **Sales patterns over time**  
  🏆 **Top-performing products and categories**  
